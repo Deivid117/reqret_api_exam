@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Reqres Evaluation</string>
+
+    <!--    Login Screen-->
+    <string name="login_login_user">Iniciar sesión</string>
+    <string name="login_register_user">Registrarse</string>
+    <string name="login_add_email">Ingresa tu correo</string>
+    <string name="login_user_email">Correo electrónico</string>
+    <string name="login_add_password">Ingresa tu contraseña</string>
+    <string name="login_user_password">Contraseña</string>
+
+    <string name="login_error_msg_email1">Correo vacío</string>
+    <string name="login_msg_error_email2">Formato de correo inválido</string>
+    <string name="login_msg_error_password1">Contraseña vacía</string>
+    <string name="login_error_msg_password2">La contraseña no debe llevar emojis</string>
+
+    <!--    Home Screen-->
+    <string name="home_empty_message_title">Sin información disponible</string>
+    <string name="home_empty_message_description">No se han encontrado usuarios por el momento, inténtelo más tarde</string>
+    <string name="home_search_user_placeholder">Buscar usuario</string>
+    <string name="home_search">Búsqueda</string>
+    <string name="home_dialog_title">Eliminar usuario</string>
+    <string name="home_dialog_body">¿Deseas eliminar este usuario?</string>
+    <string name="home_yes_button">Sí</string>
+    <string name="home_no_button">No</string>
+
+    <!--    Registration Screen-->
+    <string name="registration_topbar_title">Registro</string>
+    <string name="registration_register">Registro</string>
+    <string name="registration_warning_message">*Verifica que las contraseñas coincidan</string>
+    <string name="registration_register_button">Registrarse</string>
+    <string name="registration_email_placeholder">Ingresa tu correo</string>
+    <string name="registration_email">Correo electrónico</string>
+    <string name="registration_password_placeholder">Ingresa tu contraseña</string>
+    <string name="registration_password">Contraseña</string>
+    <string name="registration_password_confirmation_placeholder">Confirma tu contraseña</string>
+    <string name="registration_password_cofirmation">Confirmar contraseña</string>
+
+    <string name="registration_msg_error_email1">Correo vacío</string>
+    <string name="registration_msg_error_email2">Formato de correo inválido</string>
+    <string name="registration_msg_error_password1">Contraseña vacía</string>
+    <string name="registration_msg_error_password2">La contraseña no debe llevar emojis</string>
+    <string name="registration_msg_error_password3">Las contraseñas no coinciden</string>
+    <string name="registration_msg_error_password4">La contraseña no debe llevar emojis</string>
+
+    <!--    User Management Screen-->
+    <string name="management_edit_topbar_title">Editar usuario</string>
+    <string name="management_create_topbar_title">Crear usuario</string>
+    <string name="management_save_button">Guardar</string>
+    <string name="management_name_placeholder">Ingresa el nombre</string>
+    <string name="management_name">Nombre</string>
+    <string name="management_job_placeholder">Ingresa la profesión</string>
+    <string name="management_job">Profesión</string>
+
+    <string name="edit_msg_error_name1">Nombre vacío</string>
+    <string name="edit_msg_error_name2">El nombre no debe llevar emojis</string>
+    <string name="edit_msg_error_name3">Tu nombre no puede contener números o caracteres especiales</string>
+    <string name="edit_msg_error_job1">Profesión vacía</string>
+    <string name="edit_msg_error_job2">La profesión no debe llevar emojis</string>
+    <string name="edit_msg_error_job3">La profesión no puede contener números o caracteres especiales</string>
+
+    <string name="create_msg_error_name1">Nombre vacío</string>
+    <string name="create_msg_error_name2">El nombre no debe llevar emojis</string>
+    <string name="create_msg_error_name3">Tu nombre no puede contener números o caracteres especiales</string>
+    <string name="create_msg_error_job1">Profesión vacía</string>
+    <string name="create_msg_error_job2">La profesión no debe llevar emojis</string>
+    <string name="create_msg_error_job3">La profesión no puede contener números o caracteres especiales</string>
+
+
+
+</resources>

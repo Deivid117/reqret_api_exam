@@ -1,0 +1,23 @@
+buildscript {
+    ext {
+        compose_version = '1.2.0'
+        viewmodel_version = '2.7.0-alpha01'
+        navigation_version = '2.7.0'
+        lifecycle_livedata_version = '2.7.0-alpha02'
+        livedata_version = '1.6.0-alpha06'
+        coroutines_version = '1.7.1'
+        datastore_version = '1.0.0'
+        dagger_hilt_version = '2.45'
+        room_version = '2.5.2'
+        coil_version = '2.4.0'
+        retrofit_version = '2.9.0'
+        okhttp_version = '5.0.0-alpha.3'
+        dagger_hitl_nav_version = '1.0.0'
+    }
+}// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.4.1' apply false
+    id 'com.android.library' version '7.4.1' apply false
+    id 'org.jetbrains.kotlin.android' version '1.7.0' apply false
+    id 'com.google.dagger.hilt.android' version '2.45' apply false
+}
